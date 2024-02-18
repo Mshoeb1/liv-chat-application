@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/liv-chat-application/static/css/main.07c219de.css",
+    "main.js": "/liv-chat-application/static/js/main.5b174cd0.js",
+    "static/js/453.50c04005.chunk.js": "/liv-chat-application/static/js/453.50c04005.chunk.js",
+    "index.html": "/liv-chat-application/index.html",
+    "main.07c219de.css.map": "/liv-chat-application/static/css/main.07c219de.css.map",
+    "main.5b174cd0.js.map": "/liv-chat-application/static/js/main.5b174cd0.js.map",
+    "453.50c04005.chunk.js.map": "/liv-chat-application/static/js/453.50c04005.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c219de.css",
+    "static/js/main.5b174cd0.js"
+  ]
+}
